@@ -1,1 +1,1 @@
-# trilateration2D
+A simple Java code that locates nodes in 2D space with trilateration method.
